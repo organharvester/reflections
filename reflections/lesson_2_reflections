@@ -3,3 +3,12 @@ i am initializing
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates a .git directory where the git files can be stored.
+
+
+
+
+How is the staging area different from the working directory and the repository? What
+value do you think it offers?
+
+The staging area is contained by the working directory and the git files are contained by it. It is valuable because it keeps the code
+organized.
