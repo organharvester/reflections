@@ -1,0 +1,5 @@
+i am initializing 
+
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a .git directory where the git files can be stored.

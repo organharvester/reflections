@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you
+see the bug that was introduced?
+
+The diff progrom showed lines that had changed, so that it was
+easier to find differences in the text.
+
+
+
+
+
+How could having easy access to the entire history of a file
+make you a more efficient programmer in the long term?
+
+If i could see the entire history of a file i could see the 
+types of bugs that i make and would learn not to make them.
+I could also see previous bits of code and re-use them.
+
+
+
+
+How can you use the commands git log and git diff to view the
+history of files?
+
+If you use git log it shows you a list of all the differnt 
+commits and a little line about what the change was, then 
+you can use git diff and two of the ids (or the first 4chars) 
+and it shows you the changes with "+" by the additions and 
+"-" by the deletions.
+
+
+
+
+How might using version control make you more confident to 
+make changes that could break something?
+
+if i saved a previous version i don't have to worry about 
+any changes that will break the code because ill have a 
+good version saved.
